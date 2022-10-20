@@ -1,11 +1,11 @@
 # matlabfem
-Author: Abhijith B N
-
-email : abhijithbn@gmail.com
+##### Author: Abhijith B N
+##### email : abhijithbn@gmail.com
+### MATLAB based Finite element solver and Stochastic FEM solver for electromagnetics. Nedelec edge based finite element for 3D, specral stochastic FEM, stochastic collocation and Monte Carlo simulation.
 > created for the PhD thesis, "Stochastic Finite Element Modeling of Material and Geometric Uncertainties in Electromagnetics"
 > The codes will be publisized after publication.
 
-Note:
+Usage Notes:
 -------------------------------------- 
 addpath 'emsfem/include' folder before executing the codes.
 
