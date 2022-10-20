@@ -10,7 +10,7 @@ addpath 'matlabfem/include' folder before executing the codes.
 
 Features
 ------------------------------------
-Designing MATLAB Finite Element Tool for Elecctormagnetics.
+Designed MATLAB Finite Element Tool for Elecctormagnetics.
 
 Designed as a class EFEM, the fundamental finite element code.
 
@@ -26,17 +26,17 @@ Designed as a class StochasticCollocation, the Stochastic Collocation Simulation
 
 Tested Features
 ------------------
-1. Determniistic EFEM									Tested
+1. Determniistic EFEM								Tested
 2. Stochastic FEM
-	*SSFEM
-		-random variable								Tested
-		-spatial variation							Tested
-		-effective spatial variation					Tested
-	*MCS
-		-random variable								Tested	
-		-spatial variation							Tested
-		-effective spatial variation					Tested
-	*SC
-		-random variable								NOT tested
-		-spatial variation							Tested
-		-effective spatial variation					NOT tested	
+	* SSFEM
+		- random variable						Tested
+		- spatial variation						Tested
+		- effective spatial variation					Tested
+	* MCS
+		- random variable						Tested	
+		- spatial variation						Tested
+		- effective spatial variation					Tested
+	* SC
+		- random variable						NOT tested
+		- spatial variation						Tested
+		- effective spatial variation					NOT tested	
