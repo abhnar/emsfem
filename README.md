@@ -26,17 +26,17 @@ Designed as a class StochasticCollocation, the Stochastic Collocation Simulation
 
 Tested Features
 ------------------
-Determniistic EFEM									Tested
-Stochastic FEM
-	SSFEM
-		random variable								Tested
-		spatial variation							Tested
-		effective spatial variation					Tested
-	MCS
-		random variable								Tested	
-		spatial variation							Tested
-		effective spatial variation					Tested
-	SC
-		random variable								NOT tested
-		spatial variation							Tested
-		effective spatial variation					NOT tested	
+1. Determniistic EFEM									Tested
+2. Stochastic FEM
+	*SSFEM
+		-random variable								Tested
+		-spatial variation							Tested
+		-effective spatial variation					Tested
+	*MCS
+		-random variable								Tested	
+		-spatial variation							Tested
+		-effective spatial variation					Tested
+	*SC
+		-random variable								NOT tested
+		-spatial variation							Tested
+		-effective spatial variation					NOT tested	
