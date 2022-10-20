@@ -6,7 +6,7 @@ email : abhijithbn@gmail.com
 
 Note:
 -------------------------------------- 
-addpath 'matlabfem/include' folder before executing the codes.
+addpath 'emsfem/include' folder before executing the codes.
 
 Features
 ------------------------------------
