@@ -42,4 +42,4 @@ Tested Features
 	* SC
 		- random variable						NOT tested
 		- spatial variation						Tested
-		- effective spatial variation					NOT tested	
+		- effective spatial variation					Tested	
